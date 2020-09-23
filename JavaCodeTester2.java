@@ -18,6 +18,11 @@ public class JavaCodeTester2
                     // " These characters are 3rd, 5th and 7th character of the string(footprinting break access"); 
 
 
+         // Checking whether the string started with "test" or not
+
+                    //System.out.println(hacking.startsWith("test"));
+
+
          // transforming the string to upper-case letters
                  
                     //System.out.println(hacking.toupperCase());
@@ -34,24 +39,14 @@ public class JavaCodeTester2
 
                     int testNumber = 57;
 
-                    if (testNumber %2==0)
+                   if (testNumber %2==0)
 	                 {
 		                System.out.println("the number is even");
 	                 }
 	               else
 	                 {
 		               System.out.println("the number is odd");
-	                 }
-
-                  
-                 
-		
-
-        }
-
-
-
-
-
-	    
+	                 }            
+            }
+    
 	}
