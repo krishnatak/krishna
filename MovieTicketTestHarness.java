@@ -44,9 +44,9 @@ public class MovieTicketTestHarness
         //to get date of show acc to movie name
         System.out.println("Enter your movie name, select from availabe names(case sensetive!)");
         System.out.println("1. Robot");
-        System.out.println("1. Shiva");
-        System.out.println("1. Taxi");
-        System.out.println("1. Hacker");
+        System.out.println("2. Shiva");
+        System.out.println("3. Taxi");
+        System.out.println("4. Hacker");
         
         //getting Movie name from input
         System.out.println("Enter the Movie Name");                
@@ -60,4 +60,4 @@ public class MovieTicketTestHarness
         System.out.println("Acc to info provided, your show will be live on "+ticket1.showDate(newTicketNumber));
         System.out.println("Enjoy your Show, Have a Nice day");
     }
-}    
+}       
