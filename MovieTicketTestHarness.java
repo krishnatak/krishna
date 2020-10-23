@@ -1,7 +1,7 @@
 /**
  * To test the file MovieTicket.java and initiating objects of same class and printing the record of ticket with tax , and date of show
  * Author : Krishna Tak
- * Date :   13 Oct 2020
+ * Date :   22 Oct 2020
  * Time :   01:13 AM
  */
 import java.util.Scanner;
