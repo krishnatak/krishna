@@ -2,7 +2,7 @@
  * This is bluePrint class , here I defined setters , getters and constructor along with 
  * proper switch statement to provide Appropriate Seat Class according to ticket number
  * Author: Krishna Tak
- * Date: 13 oct 2020
+ * Date: 22 oct 2020
  * Time: 23:28
  */
 public class AirlineBooking
